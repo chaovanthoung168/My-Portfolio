@@ -2,11 +2,13 @@
 
 import Link from "next/link";
 import { motion } from "framer-motion";
+import ParticlesBackground from "./particles-background";
 
 export default function Hero() {
   return (
     <section className="relative min-h-screen flex items-center justify-center px-6 overflow-hidden">
-      <div className="max-w-4xl text-center">
+      <ParticlesBackground />
+      <div className="max-w-4xl text-center z-10">
         {/* Animate when in viewport */}
         <motion.div
           initial={{ opacity: 0, y: 50 }}
