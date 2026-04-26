@@ -28,8 +28,8 @@ const projectsData = [
   {
     title: "School Register API (Backend System)",
     description:
-      "A backend system designed to manage school registration processes, including student enrollment, department management, user authentication, and payment handling. The system follows a clean and scalable architecture, making it easy to maintain and extend for real-world applications.",
-    tags: ["Spring Boot", "PostgreSQL", "Docker", "Bakong API"],
+      "A backend system for managing school registration, including student enrollment and departments. Provides secure authentication and user access control. Supports payment processing and transactions. Built with a scalable and maintainable architecture.",
+    tags: ["Spring Boot", "PostgreSQL", "Docker", "Bakong"],
     link: "#",
     featured: true,
   },
