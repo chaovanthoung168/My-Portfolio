@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "Chao Vanthoung - Full-Stack Developer Portfolio",
   description:
     "Portfolio of Chao Vanthoung, a Computer Science graduate and Full-Stack Developer experienced in React, Next.js, Spring Boot, and Microservice Architecture.",
+   icons: {
+      icon: "/favicon-new.jpg?v=2",
+  },
   keywords: [
     "Chao Vanthoung",
     "Full-Stack Developer",
