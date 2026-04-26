@@ -21,7 +21,15 @@ const projectsData = [
     title: "Rean Data Application",
     description:
       "Rean Data Application is a data learning and analysis platform designed to help users understand different types of data and visualize insights through interactive charts. It allows users to explore datasets, analyze patterns, and present information in a clear and meaningful way.",
-    tags: ["React.js", "RTK Query","TanStack"],
+    tags: ["React.js", "RTK Query", "TanStack"],
+    link: "#",
+    featured: true,
+  },
+  {
+    title: "School Register API (Backend System)",
+    description:
+      "A backend system designed to manage school registration processes, including student enrollment, department management, user authentication, and payment handling. The system follows a clean and scalable architecture, making it easy to maintain and extend for real-world applications.",
+    tags: ["Spring Boot", "PostgreSQL", "Docker", "Bakong API"],
     link: "#",
     featured: true,
   },
